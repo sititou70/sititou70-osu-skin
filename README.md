@@ -15,8 +15,5 @@ if you already have the old version, you must delete it before install the new v
 delete `[osu directory]/Skins/sititou70` directory.
 
 # thanks
-this skin is based on **osu-skin-default** and **shinchikuhome! skin**.
-
-* [osu-skin-default](https://github.com/emersion/osu-skin-default)
-* [shinchikuhome's twitter](https://twitter.com/shinchikuhome)
+this skin is based on **osu-skin-default**, **KukiBlue** and **shinchikuhome! skin**.
 
