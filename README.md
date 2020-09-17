@@ -1,5 +1,5 @@
 # sititou70 simple osu skin
-for **osu!(standard)** and **osu!taiko**
+**High contrast, simple and map readable** osu! skin for professional players of **standard and taiko**.
 
 ![ss01](docs/ss01.jpg)
 ![ss02](docs/ss02.jpg)
